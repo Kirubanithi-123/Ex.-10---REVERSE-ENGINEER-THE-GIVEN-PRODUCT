@@ -1,6 +1,6 @@
-# Ex.4 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.No. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 23-11-2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,17 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-<img width="1036" height="620" alt="image" src="https://github.com/user-attachments/assets/bec8ad91-3634-4967-bc9f-ccde06c64ac5" />
+
+![WhatsApp Image 2025-11-23 at 09 50 35_e9f2ed38](https://github.com/user-attachments/assets/cb822ebd-d651-420f-8cee-fd1f7b30060b)
 
 
 ### Output:
 
-<img width="1032" height="634" alt="image" src="https://github.com/user-attachments/assets/2b0ffb5a-cba7-4c90-aee3-e10848be2bb8" />
+<img width="1354" height="839" alt="image" src="https://github.com/user-attachments/assets/59d16972-66cb-491e-9cba-b5f319765436" />
 
 
-
-### Name:KIRUBANITHI S 
-### Register Number:212223220047
+### Name: KIRUBANITHI S
+### Register Number: 212223220047
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
